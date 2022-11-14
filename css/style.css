@@ -1,0 +1,12 @@
+@media (max-width: 992px) {
+    .navbar-brand {
+        margin-top: 0px;
+    }
+  #article2 {
+    flex-direction: column;
+  }
+  #article2 > img {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
